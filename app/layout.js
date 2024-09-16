@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Chomp Restaurant',
-  description: 'Restaurant Burger',
+  title: 'Mamma Mia!',
+  description: 'Restaurant Moderne 5-Star',
   icons: {
     icon: '/logo/fav.png',
     shortcut: '/logo/fav.png',

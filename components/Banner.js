@@ -4,9 +4,9 @@ export default function Banner() {
   return (
     <div className="w-full hidden lg:block fixed z-40 top-0 bg-banner-wave mx-auto py-1 bg-primary">
       <p className="text-white text-center">
-        We're open and available for takeaway & delivery.{' '}
+      Nous sommes ouverts et prêts à prendre vos réservations !{' '}
         <Link href="/order" className="underline underline-offset-4 font-semibold">
-          Order Now
+          Réserver votre Table
         </Link>
       </p>
     </div>

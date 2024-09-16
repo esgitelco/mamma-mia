@@ -10,7 +10,7 @@ export default function FoodCard({ item, addToCart }) {
         initial={{ x: 10, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.3 }}
-        className="flex flex-col md:flex-row items-center justify-center bg-white rounded-md lg:w-[45%] md:w-10/12 sm:w-[48%] w-full p-5 md:space-x-5 space-y-10 md:space-y-0 border border-[#35b8be]/20 hover:border-[#35b8be] shadow-sm">
+        className="flex flex-col md:flex-row items-center justify-center bg-white rounded-md lg:w-[45%] md:w-10/12 sm:w-[48%] w-full p-5 md:space-x-5 space-y-10 md:space-y-0 border border-accent/20 hover:border-accent shadow-sm">
         <Link href={`/product/${item.id}`} className="shrink-0">
           <Image
             src={item.image}
@@ -27,7 +27,7 @@ export default function FoodCard({ item, addToCart }) {
             <p className="text-primary">{formatRp(item.price)}</p>
           </Link>
           <Link href={`/product/${item.id}`}>
-            <p className="text-paragraf leading-normal line-clamp-3">{item.shortDesc}</p>
+            <p className="text-paragraph leading-normal line-clamp-3">{item.shortDesc}</p>
           </Link>
           <div className="flex mt-2 w-full justify-end">
             <button

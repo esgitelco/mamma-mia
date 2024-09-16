@@ -15,19 +15,19 @@ export default function HeroSection() {
         transition={{ duration: 0.5, ease: [0.25, 0.46, 0.45, 0.94] }}
         className="flex flex-col lg:items-start items-center lg:w-6/12 md:w-10/12 w-full lg:space-y-5 space-y-7">
         <h1 className="font-bold md:text-6xl text-5xl lg:text-left text-center">
-          Beautiful food & takeaway, <span className="text-primary">delivered</span> to your door.
+        Des plats délicieux & à emporter, <span className="text-primary">livrés</span> chez vous.
         </h1>
-        <p className="text-paragraf text-lg lg:text-base lg:text-left text-center leading-snug">
-          Welcome to our restaurant, a place where deliciousness meets comfort! Enjoy a warm and friendly atmosphere
-          while enjoying delicious dishes from our kitchen.
+        <p className="text-paragraph text-lg lg:text-base lg:text-left text-center leading-snug">
+        Découvrez une expérience culinaire inoubliable ! Notre restaurant vous propose une ambiance chaleureuse et
+        conviviale, où chaque plat est préparé avec soin pour ravir vos papilles.
         </p>
         <Link href="/order">
-          <Button className="bg-button-wave bg-primary text-white">Place an Order</Button>
+          <Button className="bg-button-wave bg-primary text-white">Passer une Commande</Button>
         </Link>
         <div className="mx-auto lg:mx-0">
           <Image src={trustPilot} quality={60} alt="trust Pilot logo" className="mb-2 lg:mx-0 mx-auto" />
           <p className="text-heading">
-            <span className="text-primary pl-1">4.8 out of 5</span> based on 2000+ reviews
+            <span className="text-primary pl-1">4.8 sur 5</span> de 2000+ revues
           </p>
         </div>
       </motion.div>
@@ -36,7 +36,7 @@ export default function HeroSection() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.5 }}>
         <Image
-          src="/img/hero-img-section.png"
+          src="/img/image-hero.jpg"
           alt="Hero Image"
           width={500}
           height={500}

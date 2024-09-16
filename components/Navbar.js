@@ -33,7 +33,7 @@ export default function Navbar() {
         <div className="">
           <Link href={"/"}>
             <Image
-              src="/logo/logo.svg"
+              src="/logo/logo.png"
               width={40}
               height={40}
               alt="Logo"

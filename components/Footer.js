@@ -16,26 +16,26 @@ const Footer = () => {
         <div className="md:w-8/12 w-full flex lg:flex-row flex-col gap-10">
           <div className="md:w-6/12 w-full flex flex-col">
             <div className="flex gap-3 items-center justify-center">
-              <Image src="/logo/logo.svg" alt="Logo Footer" width={40} height={40} priority />
+              <Image src="/logo/logo.png" alt="Logo Footer" width={40} height={40} priority />
               <h1 className="sm:text-3xl text-xl font-bold text-heading ">
-                Chomp <span className="text-primary">Restaurant</span>
+                Mamma <span className="text-primary">Mia!</span>
               </h1>
             </div>
-            <p className="text-paragraf text-lg mt-6 md:text-left text-center">
+            <p className="text-paragraph text-lg mt-6 md:text-left text-center">
               Welcome to our burger restaurant! We are a diner committed to serving unique and satisfying burgers.
             </p>
           </div>
-          <Quotes />
+          {/* <Quotes /> */}
         </div>
         <div className="md:w-4/12 w-full flex md:flex-row flex-col md:gap-24 gap-14 justify-center">
           <FooterList />
         </div>
       </div>
       <div className="w-full border-t mt-24 py-7 flex md:flex-row flex-col items-center justify-between space-y-5">
-        <p className="text-paragraf ">
-          Built by{' '}
+        <p className="text-paragraph ">
+          Dévéloppé par l'équipe{' '}
           <Link href="https://github.com/bwafi" target="_blank" className="text-primary">
-            Syahroni
+            Mamma Mia!
           </Link>{' '}
           · Powered by{' '}
           <Link href="https://nextjs.org/" target="_blank" className="text-primary">
@@ -85,7 +85,7 @@ const Quotes = () => {
             repeat={Infinity}
             className="text-center text-lg text-heading"
           />
-          <i className="font-light text-lg font-serif text-paragraf">~{quotes.author}~</i>
+          <i className="font-light text-lg font-serif text-paragraph">~{quotes.author}~</i>
         </>
       )}
     </div>
@@ -97,16 +97,16 @@ const FooterList = () => {
     <>
       <div className="flex flex-col space-y-6">
         <h4 className="text-heading font-bold tracking-[0.3em]">MENU</h4>
-        <p className="text-paragraf">Home</p>
-        <p className="text-paragraf">Order</p>
-        <p className="text-paragraf">FAQ</p>
-        <p className="text-paragraf">Contact</p>
+        <p className="text-paragraph">Acceuil</p>
+        <p className="text-paragraph">Réserver</p>
+        <p className="text-paragraph">Commande</p>
+        <p className="text-paragraph">Contact</p>
       </div>
       <div className="flex flex-col space-y-6">
-        <h4 className="text-heading font-bold tracking-[0.3em]">STUDIO</h4>
-        <p className="text-paragraf">Company</p>
-        <p className="text-paragraf">Changelog</p>
-        <p className="text-paragraf">Licence</p>
+        <h4 className="text-heading font-bold tracking-[0.3em]">RESTO</h4>
+        <p className="text-paragraph">Rejoignez-Nous</p>
+        <p className="text-paragraph">Nos Plats</p>
+        <p className="text-paragraph">Nos Désserts</p>
       </div>
     </>
   );
@@ -118,26 +118,26 @@ const SosmedIcon = () => {
       <Link
         href="https://www.instagram.com/itssyahroni/w"
         target="_blank"
-        className="border border-paragraf/40 rounded-full p-2 hover:border-paragraf transition-opacity">
-        <AiOutlineInstagram className="text-2xl text-paragraf" />
+        className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
+        <AiOutlineInstagram className="text-2xl text-paragraph" />
       </Link>
       <Link
         href="https://twitter.com/itssyahroni"
         target="_blank"
-        className="border border-paragraf/40 rounded-full p-2 hover:border-paragraf transition-opacity">
-        <AiOutlineTwitter className="text-2xl text-paragraf" />
+        className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
+        <AiOutlineTwitter className="text-2xl text-paragraph" />
       </Link>
       <Link
         href="https://github.com/bwafi"
         target="_blank"
-        className="border border-paragraf/40 rounded-full p-2 hover:border-paragraf transition-opacity">
-        <AiFillGithub className="text-2xl text-paragraf" />
+        className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
+        <AiFillGithub className="text-2xl text-paragraph" />
       </Link>
       <Link
         href="https://wa.me/6282335955903"
         target="_blank"
-        className="border border-paragraf/40 rounded-full p-2 hover:border-paragraf transition-opacity">
-        <AiOutlineWhatsApp className="text-2xl text-paragraf" />
+        className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
+        <AiOutlineWhatsApp className="text-2xl text-paragraph" />
       </Link>
     </>
   );

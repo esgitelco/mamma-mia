@@ -4,11 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#35b8be',
+        primary: '#ff0000',
         text: '#08090a',
-        paragraf: '#546285',
+        paragraph: '#546285',
         heading: '#191B22',
-        alice: '#F5FBFC',
+        alice: '#fff5f5', // F5FBFC
+        secondary: '#f7f7f7',
+        accent: '#b30000',
       },
       backgroundImage: {
         'button-wave': 'url("../public/icon/button-wave.svg")',

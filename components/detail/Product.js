@@ -12,9 +12,9 @@ const Product = ({ item, addToCart }) => {
             <h1 className="font-bold text-[40px] capitalize">{item.name}</h1>
             <span className="text-primary font-semibold text-2xl">{formatRp(item.price)}</span>
             <div className="my-5 py-5 border-y border-y-primary/70">
-              <p className="text-lg text-paragraf leading-normal">{item.description1}</p>
+              <p className="text-lg text-paragraph leading-normal">{item.description1}</p>
               <br />
-              <p className="text-lg text-paragraf leading-normal">{item.description2}</p>
+              <p className="text-lg text-paragraph leading-normal">{item.description2}</p>
             </div>
             <button
               onClick={() => addToCart(item.id)}

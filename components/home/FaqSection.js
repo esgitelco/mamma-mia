@@ -20,7 +20,7 @@ const FaqSection = () => {
         <h1 className="text-primary text-5xl text-center lg:text-left font-bold my-5">
           Order online with our simple checkout.
         </h1>
-        <p className="text-paragraf text-lg leading-normal lg:text-left text-center">
+        <p className="text-paragraph text-lg leading-normal lg:text-left text-center">
           Here, you can find the answers you need. We've collected frequently asked questions to make it easier for you
           to find the information you need.
         </p>

@@ -29,17 +29,17 @@ const ListProducts = () => {
         <ButtonMenu
           onClick={handleShowBurger}
           className={`${type === 'burgers' && 'bg-primary bg-button-wave text-white border-none transition-colors'}`}>
-          Burgers
+          Désserts
         </ButtonMenu>
         <ButtonMenu
           onClick={handleShowSides}
           className={`${type === 'sides' && 'bg-primary bg-button-wave text-white border-none transition-colors'}`}>
-          Sides
+          Plats
         </ButtonMenu>
         <ButtonMenu
           onClick={handleShowDrinks}
           className={`${type === 'drinks' && 'bg-primary bg-button-wave text-white border-none transition-colors'}`}>
-          Drinks
+          Boissons
         </ButtonMenu>
       </div>
       <div className="py-10 flex md:gap-7 sm:gap-3 gap-7 items-center justify-center flex-wrap">

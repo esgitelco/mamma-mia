@@ -6,15 +6,15 @@ export default function MenuList({ className }) {
 
   const navList = [
     {
-      text: 'Home',
+      text: 'Acceuil',
       path: '/',
     },
     {
-      text: 'Order',
+      text: 'Réserver',
       path: '/order',
     },
     {
-      text: 'Company',
+      text: 'Commande',
       path: '/company',
     },
     {
@@ -23,7 +23,7 @@ export default function MenuList({ className }) {
     },
     {
       text: 'Contact',
-      path: 'mailto: syahronibwf@gmail.com?subject = Feedback&body = Message',
+      path: 'mailto: gosco6689@gmail.com?subject = Feedback&body = Message',
     },
   ];
 

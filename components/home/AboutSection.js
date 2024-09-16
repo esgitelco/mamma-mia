@@ -6,10 +6,10 @@ export default function AboutSection() {
       link="/company"
       button="Learn about us"
       title="The home of fresh products"
-      paragraf="
+      paragraph="
           Apart from great food, we also offer a warm and comfortable atmosphere for you and your family to enjoy time
           together. Our friendly and professional service will make your visit an unforgettable experience"
-      src={'/img/about-img.png'}
+      src={'/img/fresh-food.jpg'}
     />
   );
 }

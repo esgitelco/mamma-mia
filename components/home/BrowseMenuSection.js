@@ -7,8 +7,8 @@ export default function BrowseMenuSection() {
   return (
     <section className="w-full mx-auto my-14 bg-bg-content">
       <div className="lg:w-5/12 w-full mx-auto">
-        <h1 className="md:text-[55px] text-5xl text-primary font-bold text-center ">Browse our menu</h1>
-        <p className="text-lg leading-normal text-paragraf text-center py-3">
+        <h1 className="md:text-[55px] text-5xl text-primary font-bold text-center ">Explorez notre menu</h1>
+        <p className="text-lg leading-normal text-paragraph text-center py-3">
           Use our menu to place an order online, or{' '}
           <a href="#" className="text-primary underline underline-offset-4">
             phone

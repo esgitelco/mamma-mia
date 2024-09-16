@@ -23,7 +23,7 @@ export default function StepSection() {
   return (
     <section className="w-full py-20">
       <div className="w-full mx-auto my-10">
-        <h1 className="text-center md:text-[55px] text-[42px] text-primary font-bold">How it works.</h1>
+        <h1 className="text-center md:text-[55px] text-[42px] text-primary font-bold">Comment ça marche.</h1>
       </div>
       <div className="flex justify-center lg:gap-16 md:gap-10 gap-20 lg:flex-row flex-col items-center">
         {step.map(({ src, title, text }) => {
@@ -32,7 +32,7 @@ export default function StepSection() {
               <Image src={src} alt="Step 1" quality={60} width={350} height={350} className="w-auto h-auto" />
               <div className="w-11/12 lg:w-full md:w-8/12">
                 <h2 className="font-bold my-3 text-[22px] text-heading text-center">{title}</h2>
-                <p className="text-paragraf mx-auto text-lg leading-normal text-center">{text}</p>
+                <p className="text-paragraph mx-auto text-lg leading-normal text-center">{text}</p>
               </div>
             </div>
           );

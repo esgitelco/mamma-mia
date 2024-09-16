@@ -76,7 +76,7 @@ const FAQ = ({ type }) => {
             <div className="flex justify-between items-center border-b">
               <h1 className="text-primary font-semibold text-lg py-7">{faq.question}</h1>
               <IoClose
-                className={`md:text-2xl text-lg shrink-0 text-paragraf transition-transform duration-300 ease-in ${
+                className={`md:text-2xl text-lg shrink-0 text-paragraph transition-transform duration-300 ease-in ${
                   isExpanded ? '' : 'rotate-45'
                 }`}
               />
@@ -85,7 +85,7 @@ const FAQ = ({ type }) => {
               className={`overflow-hidden transition-[max-height] duration-300 ease-in ${
                 isExpanded ? 'max-h-40' : 'max-h-0'
               }`}>
-              <p className="text-lg text-paragraf py-5 ">{faq.answer}</p>
+              <p className="text-lg text-paragraph py-5 ">{faq.answer}</p>
             </div>
           </motion.div>
         );
