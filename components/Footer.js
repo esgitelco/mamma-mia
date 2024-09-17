@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="flex md:flex-row flex-col space-y-10 md:space-x-0 lg:items-center justify-between w-full">
         <div className="md:w-8/12 w-full flex lg:flex-row flex-col gap-10">
           <div className="md:w-6/12 w-full flex flex-col">
-            <div className="flex gap-3 items-center justify-center">
+            <div className="flex gap-3 items-center justify-start">
               <Image src="/logo/logo.png" alt="Logo Footer" width={40} height={40} priority />
               <h1 className="sm:text-3xl text-xl font-bold text-heading ">
                 Mamma <span className="text-primary">Mia!</span>

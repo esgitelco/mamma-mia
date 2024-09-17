@@ -11,16 +11,16 @@ export default function MenuList({ className }) {
     },
     {
       text: 'Réserver',
-      path: '/order',
+      path: '/reserver',
     },
     {
       text: 'Commande',
-      path: '/company',
+      path: '/order',
     },
-    {
+    /* {
       text: 'FAQ',
       path: '/faq',
-    },
+    }, */
     {
       text: 'Contact',
       path: 'mailto: gosco6689@gmail.com?subject = Feedback&body = Message',

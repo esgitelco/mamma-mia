@@ -4,8 +4,7 @@ const HeroOrder = () => {
   return (
     <HeroPage>
       <HeroTitle>
-        Get your food <span className="text-primary">delivered</span>, or <span className="text-primary">pick-up</span>{' '}
-        in store.
+      Profitez d’un repas <span className="text-primary">sur place</span> ou <span className="text-primary">à emporter</span>.
       </HeroTitle>
     </HeroPage>
   );

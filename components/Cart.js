@@ -4,7 +4,7 @@ import { IoClose } from 'react-icons/io5';
 import { motion } from 'framer-motion';
 import Image from 'next/image';
 import { ProductContext } from '@/context/GlobalState';
-import { formatRp } from '@/context/formatRp';
+import { formatEuro } from '@/context/formatEuro';
 import CountCard from './ui/CountCard';
 import Button from './ui/Button';
 import Link from 'next/link';
@@ -43,7 +43,7 @@ export default function Cart({ className, showCart, setShowCart }) {
             ref={cartRef}
             className={`z-50 cart-body absolute w-full shadow-cart md:w-8/12 lg:w-4/12 h-screen bg-white top-0 right-0`}>
             <div className="w-full justify-between items-center flex py-3 md:px-5 px-2 border border-b">
-              <h1 className="text-2xl font-bold text-black/70">Your Order</h1>
+              <h1 className="text-2xl font-bold text-black/70">Vos Commandes</h1>
               <button onClick={() => setShowCart(false)}>
                 <IoClose className="text-2xl text-black/70 hover:scale-125 transition-transform" />
               </button>
@@ -98,7 +98,7 @@ const CardCart = ({ item, removeFromCart }) => {
         <div className="flex w-full justify-between items-center">
           <div>
             <h3 className="font-bold text-[15px] text-black/80 capitalize">{item.name}</h3>
-            <p className="text-black/80 text-[15px]">{formatRp(item.price)}</p>
+            <p className="text-black/80 text-[15px]">{formatEuro(item.price)}</p>
             <button className="text-orange-400" onClick={() => removeFromCart(item.id)}>
               Remove
             </button>
@@ -121,10 +121,10 @@ const PayButton = ({ cart }) => {
     <div className="border-t z-50 bg-white absolute w-full bottom-0 md:px-5 px-3 lg:pb-5 md:pb-10 pb-5">
       <div className="flex w-full justify-between my-3">
         <span className="text-lg font-medium text-gray-500">Subtotal</span>
-        <span className="text-lg font-bold text-black">{formatRp(total)}</span>
+        <span className="text-lg font-bold text-black">{formatEuro(total)}</span>
       </div>
       <button className="w-full bg-primary text-white py-3 rounded shadow hover:opacity-80 transition-opacity">
-        Continue to Checkout
+        Passer au Paiement
       </button>
     </div>
   );

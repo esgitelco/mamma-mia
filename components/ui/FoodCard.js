@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { motion, AnimatePresence } from 'framer-motion';
-import { formatRp } from '@/context/formatRp';
+import { formatEuro } from '@/context/formatEuro';
 import Link from 'next/link';
 
 export default function FoodCard({ item, addToCart }) {
@@ -24,7 +24,7 @@ export default function FoodCard({ item, addToCart }) {
         <div className="flex flex-col md:gap-1 gap-3 justify-start">
           <Link href={`/product/${item.id}`} className="flex justify-between flex-col md:flex-row">
             <h2 className="text-xl font-bold capitalize">{item.name}</h2>
-            <p className="text-primary">{formatRp(item.price)}</p>
+            <p className="text-primary">{formatEuro(item.price)}</p>
           </Link>
           <Link href={`/product/${item.id}`}>
             <p className="text-paragraph leading-normal line-clamp-3">{item.shortDesc}</p>
@@ -33,7 +33,7 @@ export default function FoodCard({ item, addToCart }) {
             <button
               className="py-2 rounded text-base md:text-sm text-white px-4 bg-primary shadow-sm hover:contrast-125 transition-all duration-300"
               onClick={() => addToCart(item.id)}>
-              Add to Cart
+              Ajouter au Panier
             </button>
           </div>
         </div>

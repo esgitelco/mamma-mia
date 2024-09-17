@@ -1,4 +1,4 @@
-import { formatRp } from '@/context/formatRp';
+import { formatEuro } from '@/context/formatEuro';
 import Image from 'next/image';
 import React from 'react';
 
@@ -10,7 +10,7 @@ const Product = ({ item, addToCart }) => {
           <Image src={item.image} alt={item.name} width={480} height={480} className="rounded-2xl shrink-0" />
           <div className="px-3">
             <h1 className="font-bold text-[40px] capitalize">{item.name}</h1>
-            <span className="text-primary font-semibold text-2xl">{formatRp(item.price)}</span>
+            <span className="text-primary font-semibold text-2xl">{formatEuro(item.price)}</span>
             <div className="my-5 py-5 border-y border-y-primary/70">
               <p className="text-lg text-paragraph leading-normal">{item.description1}</p>
               <br />
@@ -19,7 +19,7 @@ const Product = ({ item, addToCart }) => {
             <button
               onClick={() => addToCart(item.id)}
               className="py-3 px-5 bg-primary rounded-md text-white hover:bg-primary/80 transition-opacity">
-              Add To Cart
+              Ajouter au Panier
             </button>
           </div>
         </section>

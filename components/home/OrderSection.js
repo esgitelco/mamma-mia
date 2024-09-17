@@ -21,7 +21,7 @@ const OrderSection = () => {
         </h1>
         <div className="w-full md:w-6/12">
           <Link href="/order">
-            <button className="mt-10 bg-white text-primary py-5 px-16 rounded">Commandez Maintenant</button>
+            <button className="mt-10 bg-white text-primary py-5 px-16 rounded">Commandez</button>
           </Link>
         </div>
       </div>
