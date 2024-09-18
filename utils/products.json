@@ -98,7 +98,7 @@
       "id": 11,
       "name": "drinks cola",
       "image": "/products/drinks/drink-cola.jpg",
-      "shortDesc": "Cola glacé avec un goût parfait pour désaltérer votre soif.",
+      "shortDesc": "Rafraîchissez-vous avec notre cola classique : le désaltérant parfait !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 9
@@ -107,7 +107,7 @@
       "id": 12,
       "name": "drinks lemon",
       "image": "/products/drinks/drink-lemon.jpg",
-      "shortDesc": "Boisson à l'orange rafraîchissante et pleine de saveurs naturelles.",
+      "shortDesc": "Acidulé et rafraîchissant : savourez notre boisson au citron signature !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 7
@@ -116,7 +116,7 @@
       "id": 13,
       "name": "milkshake",
       "image": "/products/drinks/milkshake.jpg",
-      "shortDesc": "Café chaud parfaitement préparé pour un coup de boost toute la journée.",
+      "shortDesc": "Plongez dans un délice crémeux : laissez-vous tenter par nos milkshakes irrésistibles !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 11
@@ -125,7 +125,7 @@
       "id": 14,
       "name": "soft drink",
       "image": "/products/drinks/soft-drink.jpg",
-      "shortDesc": "Chocolat chaud délicieux et réconfortant pour les amateurs de douceurs.",
+      "shortDesc": "Pétillant et savoureux : étanchez votre soif avec notre sélection de sodas rafraîchissants !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 9
@@ -134,7 +134,7 @@
       "id": 15,
       "name": "tea",
       "image": "/products/drinks/tea-drink.jpg",
-      "shortDesc": "Sip Serenity: Unwind with Our Exquisite Selection of Tea Drinks, Steeped in Tranquility!",
+      "shortDesc": "Sirotez la sérénité : détendez-vous avec notre sélection exquise de thés !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 10
@@ -143,7 +143,7 @@
       "id": 16,
       "name": "water",
       "image": "/products/drinks/water.jpg",
-      "shortDesc": "Stay Refreshed with Our Crystal Clear Water, the Essence of Replenishment!",
+      "shortDesc": "Restez rafraîchi avec notre eau cristalline, l'essence de la réhydratation !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 3
