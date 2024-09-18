@@ -5,18 +5,18 @@ export default function StepSection() {
   const step = [
     {
       src: '/img/step/step-01.png',
-      title: 'Adapt your menu items',
-      text: 'Easily adapt your menu using your device and allow customers to browse your items.',
+      title: 'Commandez en ligne',
+      text: 'Passez votre commande directement via notre site web en quelques clics.',
     },
     {
       src: '/img/step/step-02.png',
-      title: 'Accept online orders & takeout',
-      text: 'Let your customers order and pay via the powerful ecommerce system, or simple let them call your store.',
+      title: 'Ajoutez au panier & payez',
+      text: 'Ajoutez vos articles au panier et réglez facilement en ligne via notre système sécurisé.',
     },
     {
       src: '/img/step/step-03.png',
-      title: 'Manage delivery or takeout',
-      text: 'Manage your own logistics and take orders simply through the ecommerce system.',
+      title: 'Livraison rapide',
+      text: 'Recevez votre commande rapidement à votre porte, ou récupérez-la en magasin.',
     },
   ];
 
