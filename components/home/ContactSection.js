@@ -4,14 +4,14 @@ import SectionPage from '../SectionPage';
 const ContactSection = () => {
   return (
     <SectionPage
-      link="https://wa.me/6282335955903"
+      link="https://wa.me/22997415626"
       target="_blank"
-      button="ID +33 123-456-789"
-      title="Call our store and takeaway when it suits you best."
+      button="Contacter via WhatsApp"
+      title="Besoin d'aide urgent ? DM nous par WhatsApp !"
       paragraph="
-          Please feel free to call our store and arrange for a convenient time to pick up your order. We understand the
-          importance of flexibility and want to ensure that you can collect your items at a time that best fits your
-          schedule."
+          Notre service client est à votre disposition pour répondre à toutes vos questions ou pour vous aider à passer commande. 
+          Cliquez simplement sur le bouton ci-dessous pour discuter avec nous via WhatsApp, et nous vous répondrons rapidement. 
+          Commandez, modifiez ou obtenez des informations en toute simplicité !"
       src="/img/resto-view.jpg"
     />
   );

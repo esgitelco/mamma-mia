@@ -29,9 +29,9 @@ export const submitReservationForm = async (
 
   if (error) {
     console.error("Error submitting reservation form!", error);
-    return;
+    return "failed";
   }
 
   console.log("Reservation submitted successfully!", data);
-  // return redirect('/');
+  return "success";
 };

@@ -17,7 +17,7 @@ const OrderSection = () => {
       </div>
       <div className="bg-primary lg:w-6/12 w-full lg:px-16 px-3 py-6 flex justify-center flex-col bg-pattern-01 bg-no-repeat bg-contain bg-left-bottom">
         <h1 className="text-white md:text-[55px] text-[44px] font-bold leading-tight">
-          <span className="text-[#1e1e1e]">Support</span> good food and local business.
+        <span className="text-[#1e1e1e]">Soutenez</span> la bonne cuisine et les commerces locaux.
         </h1>
         <div className="w-full md:w-6/12">
           <Link href="/order">

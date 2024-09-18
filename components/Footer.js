@@ -22,7 +22,7 @@ const Footer = () => {
               </h1>
             </div>
             <p className="text-paragraph text-lg mt-6 md:text-left text-center">
-              Welcome to our burger restaurant! We are a diner committed to serving unique and satisfying burgers.
+              Bienvenue dans notre restaurant ! Nous sommes un diner engagé à vous offrir des burgers uniques et savoureux, ainsi que des boissons, des snacks et bien plus encore.
             </p>
           </div>
           {/* <Quotes /> */}

@@ -18,14 +18,14 @@ const FaqSection = () => {
       </div>
       <div className="lg:w-5/12 md:w-8/12 w-full flex flex-col lg:items-start items-center">
         <h1 className="text-primary text-5xl text-center lg:text-left font-bold my-5">
-          Order online with our simple checkout.
+          Commandez et payez en ligne facilement.
         </h1>
         <p className="text-paragraph text-lg leading-normal lg:text-left text-center">
-          Here, you can find the answers you need. We've collected frequently asked questions to make it easier for you
-          to find the information you need.
+          Vous vous demandez si vous pouvez passer une commande et payer en ligne ? C’est simple ! Notre site vous permet de finaliser votre commande et de régler en toute sécurité, le tout en quelques clics.
+          Explorez nos questions fréquemment posées pour en savoir plus.
         </p>
         <Link href="/faq">
-          <Button className="bg-button-wave mt-10 bg-primary text-white">See our FAQ</Button>
+          <Button className="bg-button-wave mt-10 bg-primary text-white">Voir les FAQs</Button>
         </Link>
       </div>
     </section>

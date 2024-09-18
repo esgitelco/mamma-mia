@@ -44,7 +44,7 @@ const ReservationForm = () => {
   const handleSubmit = async () => {
     // e.preventDefault();
     console.log(formData);
-    await submitReservationForm(
+    const formResponse = await submitReservationForm(
       formData.fullName,
       formData.email,
       formData.phoneNumber,
@@ -52,6 +52,10 @@ const ReservationForm = () => {
       formData.time,
       formData.comment
     );
+
+    if (formResponse === "success") {
+      alert("Votre réservation a été envoyé avec succès!");
+    }
   };
 
   return (
