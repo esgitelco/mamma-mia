@@ -8,8 +8,8 @@ export const metadata = {
   title: 'Mamma Mia!',
   description: 'Restaurant Moderne 5-Star',
   icons: {
-    icon: '/logo/fav.png',
-    shortcut: '/logo/fav.png',
+    icon: '/logo/logo.jpg',
+    shortcut: '/logo/logo.jpg',
   },
 };
 

@@ -33,11 +33,12 @@ export default function Navbar() {
         <div className="">
           <Link href={"/"}>
             <Image
-              src="/logo/logo.png"
+              src="/logo/logo.jpg"
               width={40}
               height={40}
               alt="Logo"
               priority
+              style={{borderRadius: 10}}
             />
           </Link>
         </div>
