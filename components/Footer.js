@@ -34,7 +34,7 @@ const Footer = () => {
       <div className="w-full border-t mt-24 py-7 flex md:flex-row flex-col items-center justify-between space-y-5">
         <p className="text-paragraph ">
           Dévéloppé par l'équipe{' '}
-          <Link href="https://github.com/bwafi" target="_blank" className="text-primary">
+          <Link href="#" target="_blank" className="text-primary">
             Mamma Mia!
           </Link>{' '}
           · Powered by{' '}
@@ -116,25 +116,25 @@ const SosmedIcon = () => {
   return (
     <>
       <Link
-        href="https://www.instagram.com/itssyahroni/w"
+        href="#"
         target="_blank"
         className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
         <AiOutlineInstagram className="text-2xl text-paragraph" />
       </Link>
       <Link
-        href="https://twitter.com/itssyahroni"
+        href="#"
         target="_blank"
         className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
         <AiOutlineTwitter className="text-2xl text-paragraph" />
       </Link>
       <Link
-        href="https://github.com/bwafi"
+        href="#"
         target="_blank"
         className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
         <AiFillGithub className="text-2xl text-paragraph" />
       </Link>
       <Link
-        href="https://wa.me/6282335955903"
+        href="#"
         target="_blank"
         className="border border-paragraph/40 rounded-full p-2 hover:border-paragraph transition-opacity">
         <AiOutlineWhatsApp className="text-2xl text-paragraph" />
