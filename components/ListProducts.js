@@ -29,7 +29,7 @@ const ListProducts = () => {
         <ButtonMenu
           onClick={handleShowBurger}
           className={`${type === 'burgers' && 'bg-primary bg-button-wave text-white border-none transition-colors'}`}>
-          Désserts
+          Burgers
         </ButtonMenu>
         <ButtonMenu
           onClick={handleShowSides}

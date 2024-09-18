@@ -4,7 +4,7 @@
       "id": 1,
       "name": "beef buger",
       "image": "/products/burgers/beef-burger.jpg",
-      "shortDesc": "Fresh beef, juicy patty, and perfect buns create a tantalizing dining experience.",
+      "shortDesc": "Bœuf frais, galette juteuse et pains parfaits pour une expérience culinaire irrésistible.",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 14
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "chese burger",
       "image": "/products/burgers/chese-burger.jpg",
-      "shortDesc": "Delicious Cheese Burger Delight: Melting Cheese and Juicy Beef in Every Bite!",
+      "shortDesc": "Délice de Cheese Burger : Fromage fondant et viande juteuse à chaque bouchée !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 14
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "chicken burger",
       "image": "/products/burgers/chicken-burger.jpg",
-      "shortDesc": "Crave-Worthy Chicken Burger: Tender Chicken Patty with Irresistible Flavors!",
+      "shortDesc": "Burger au poulet irrésistible : galette de poulet tendre avec des saveurs envoûtantes !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 15
@@ -31,7 +31,7 @@
       "id": 4,
       "name": "clasic burger",
       "image": "/products/burgers/clasic-burger.jpg",
-      "shortDesc": "Clasic Burger: Perfectly Grilled Patty, Fresh Ingredients, and Unforgettable Flavors!",
+      "shortDesc": "Burger classique : galette parfaitement grillée, ingrédients frais et saveurs inoubliables !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 13
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "burger BBQ",
       "image": "/products/burgers/burger-bbq.jpg",
-      "shortDesc": "BBQ Burger Bliss: Savory Grilled Patty with Smoky BBQ Flavors!",
+      "shortDesc": "Burger BBQ : galette savoureuse grillée avec des saveurs BBQ fumées !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 13
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "veggie burger",
       "image": "/products/burgers/veggie-burger.jpg",
-      "shortDesc": "BBQ Burger Bliss: Savory Grilled Patty with Smoky BBQ Flavors!",
+      "shortDesc": "Burger veggie : une galette savoureuse à base de légumes avec des saveurs irrésistibles !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 13
@@ -60,7 +60,7 @@
       "id": 7,
       "name": "french fries",
       "image": "/products/sides/french-fries.jpg",
-      "shortDesc": "Introducing Truffle-Infused French Fries, the Latest Culinary Delight!",
+      "shortDesc": "Frites à la truffe : la dernière délicatesse culinaire !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 15
@@ -69,7 +69,7 @@
       "id": 8,
       "name": "fries chese",
       "image": "/products/sides/fries-chese.jpg",
-      "shortDesc": "Indulge in Irresistible Cheesy French Fries That Will Leave You Craving for More!",
+      "shortDesc": "Frites au fromage irrésistibles qui vous laisseront en redemander !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 16
@@ -78,7 +78,7 @@
       "id": 9,
       "name": "fries rustic",
       "image": "/products/sides/fries-rustic.jpg",
-      "shortDesc": "Savory and Crispy Rustic French Fries Take Center Stage on Menus Everywhere!",
+      "shortDesc": "Frites rustiques savoureuses et croustillantes, un incontournable sur tous les menus !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 13
@@ -87,7 +87,7 @@
       "id": 10,
       "name": "popcorn",
       "image": "/products/sides/popcorn.jpg",
-      "shortDesc": "Discover the Ultimate Movie Snack with Our Irresistibly Crunchy and Flavorful Popcorn Delights!",
+      "shortDesc": "Découvrez le snack ultime pour les films avec nos pop-corns croquants et savoureux !",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 18
@@ -98,7 +98,7 @@
       "id": 11,
       "name": "drinks cola",
       "image": "/products/drinks/drink-cola.jpg",
-      "shortDesc": "Refresh Your Senses with Our Classic Cola Drink: The Perfect Thirst Quencher!",
+      "shortDesc": "Cola glacé avec un goût parfait pour désaltérer votre soif.",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 9
@@ -107,7 +107,7 @@
       "id": 12,
       "name": "drinks lemon",
       "image": "/products/drinks/drink-lemon.jpg",
-      "shortDesc": "Zesty and Refreshing: Sip on the Tangy Delight of our Signature Lemon Drink!",
+      "shortDesc": "Boisson à l'orange rafraîchissante et pleine de saveurs naturelles.",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 7
@@ -116,7 +116,7 @@
       "id": 13,
       "name": "milkshake",
       "image": "/products/drinks/milkshake.jpg",
-      "shortDesc": "Indulge in Creamy Bliss: Treat Yourself to Our Irresistible Milkshakes, a Dreamy Delight!",
+      "shortDesc": "Café chaud parfaitement préparé pour un coup de boost toute la journée.",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 11
@@ -125,7 +125,7 @@
       "id": 14,
       "name": "soft drink",
       "image": "/products/drinks/soft-drink.jpg",
-      "shortDesc": "Fizz and Flavor Galore: Quench Your Thirst with Our Assortment of Refreshing Soft Drinks!",
+      "shortDesc": "Chocolat chaud délicieux et réconfortant pour les amateurs de douceurs.",
       "description1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quo fuga maiores aperiam autem soluta odio nam sint cumque quidem. Alienum phaedrum torquatos nec eu, vis detraxit periculis ex, nihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est.",
       "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident, laborum, est cupiditate nesciunt at architecto odit dolore eligendi voluptatem quia recusandae, itaque laboriosam. Minus error voluptas eligendi incidunt aspernatur optio.",
       "price": 9
