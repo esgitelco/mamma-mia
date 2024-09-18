@@ -3,12 +3,10 @@ import SectionPage from '../SectionPage';
 export default function AboutSection() {
   return (
     <SectionPage
-      link="/company"
-      button="Learn about us"
-      title="The home of fresh products"
+      button="Découvrez nous"
+      title="Le temple des produits frais"
       paragraph="
-          Apart from great food, we also offer a warm and comfortable atmosphere for you and your family to enjoy time
-          together. Our friendly and professional service will make your visit an unforgettable experience"
+      En plus de nos délicieux plats, nous vous offrons une atmosphère chaleureuse et conviviale pour partager des moments inoubliables en famille ou entre amis. Notre service accueillant et professionnel fera de votre visite une expérience mémorable."
       src={'/img/fresh-food.jpg'}
     />
   );
